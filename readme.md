@@ -102,12 +102,45 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
+## 🩺 Restrição
+
+- Artrose no joelho
+Um dos locais mais propícios para o desenvolvimento da artrose é nos joelhos, e isso se justifica pelo fato de que essa parte do corpo tem muitas articulações e também por ter muita sobrecarga, no caso das pessoas que adotam má postura ou estão acima do peso ideal.
+A rigidez matinal, dores constantes, dificuldades em apoiar o peso do corpo e inchaço na região podem indicar a presença da condição.
+
+- Artrose no quadril
+A artrose, quando se desenvolve no quadril, também pode ser chamada de coxartrose, osteoartrose de quadril ou artrose coxofemoral.
+Sobre os sintomas, causa muita rigidez nas juntas da região, principalmente pela manhã.
+Assim, é natural que o paciente sinta muita dor nas articulações próximas às nádegas, virilha lateral e da coxa.
+
+- Artrose nas mãos
+Trata-se de um problema bastante grave, pois quase metade da população pode adquirir a artrose nas mãos, que em casos mais graves, pode levar até mesmo a impossibilidade de mexer os dedos.
+O alto índice de ocorrência dessa artrose se justifica pelo fato de as pessoas cada vez mais utilizarem muito os dedos no dia a dia, para a realização de trabalhos manuais, digitação nos computadores e smartphones, e até mesmo em horários de lazer.
+A artrose nas mãos é mais comum em pessoas mais jovens e começa com uma sensação de falta de óleo nas articulações.
+
+- Artrose nos pés
+Popularmente conhecida como joanete, a artrose nos pés é resultado de um defeito na posição dos ossos que formam o tornozelo e a região que vem logo após ele.
+Além disso, esse tipo de artrose pode se desenvolver em um dos pés ou nos dois.
+A osteoartrite nos pés ainda é subdividida em três parte:
+    Retropé;
+    Mediopé;
+    Antepé.
+
+- Artrose na coluna
+É conhecida como espondiloartrose e trata-se do desgaste das articulações da coluna. Essa classificação pode se manifestar com diferentes intensidades em cada pessoa.
+Assim, as dores podem variar desde moderadas, até muito fortes.
+É comum que o organismo, na tentativa de recuperar o desgaste ósseo, forme pequenas pontas em suas extremidades, os chamados bicos de papagaio.
+Essas pontas podem apertar os nervos, como o ciático, causando uma dor muito forte. Outro problema é a compressão dos discos intervertebrais, o que dá origem a hérnia de disco.
+
+---
+
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+4. **Informe o tipo de artrose** caso tenha algum tipo de atrose. 
+5. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
